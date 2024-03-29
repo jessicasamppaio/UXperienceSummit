@@ -15,13 +15,12 @@ UXperience é um projeto fictício que realizei para demonstrar minhas habilidad
 ## Capturas de Tela
 
 ![Screenshot 1](./img/header-projeto.png)
-*Header do projeto com formulário de contato*
+
 
 ![Screenshot 2](./img/descricao-evento.png)
-*Detalhes do evento*
+
 
 ![Screenshot 3](./img/local-evento.png)
-*Local do evento*
 
 - Acesse o link para ver o projeto completo: https://jessicasamppaio.github.io/UXperienceSummit/
 
